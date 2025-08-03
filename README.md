@@ -10,7 +10,7 @@ Apesar de ser um projeto simples, ele já me ajudou bastante a compreender melho
 - Herança por Diferenciação: Aluno herda de Pessoa e adiciona atributos como curso e matrícula.
 - Herança em Cadeia: Bolsista herda de Aluno, que por sua vez herda de Pessoa.
 - Polimorfismo: O método pagarMensalidade() é sobrescrito na classe Bolsista para alterar seu comportamento.
-- 
+  
 ## 🧠 O que eu aprendi
 
 Durante o desenvolvimento deste projeto, aprendi e pratiquei os seguintes conceitos POO:
