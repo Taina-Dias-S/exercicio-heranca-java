@@ -5,11 +5,11 @@ Apesar de ser um projeto simples, ele já me ajudou bastante a compreender melho
 
 ## 📚 Conceitos aplicados
 
-- Classe abstrata: Pessoa serve como modelo base e não pode ser instanciada.
-- Herança Simples: Visitante herda de Pessoa sem adicionar novos atributos ou comportamentos.
-- Herança por Diferenciação: Aluno herda de Pessoa e adiciona atributos como curso e matrícula.
-- Herança em Cadeia: `Bolsista` herda de Aluno, que por sua vez herda de `Pessoa`.
-- Polimorfismo: O método "pagarMensalidade()" é sobrescrito na classe Bolsista para alterar seu comportamento.
+- Classe abstrata: `Pessoa` serve como modelo base e não pode ser instanciada.
+- Herança Simples: `Visitante` herda de `Pessoa` sem adicionar novos atributos ou comportamentos.
+- Herança por Diferenciação: `Aluno` herda de `Pessoa` e adiciona atributos como curso e matrícula.
+- Herança em Cadeia: 'Bolsista` herda de `Aluno`, que por sua vez herda de `Pessoa`.
+- Polimorfismo: O método `pagarMensalidade()` é sobrescrito na classe `Bolsista` para alterar seu comportamento.
 - 
 ## 🧠 O que eu aprendi
 
